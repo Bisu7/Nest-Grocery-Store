@@ -1,0 +1,24 @@
+#prodetails{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#prodetails .singleproimage{
+    width: 20%;
+    margin-right: 50px;
+}
+.smallimggroup{
+    display: flex;
+    justify-content: space-between;
+}
+.smallimgcol{
+    flex-basis: 50%;
+    cursor: pointer;
+}
+
+/* #prodetails .singleprodeatils{
+    width: 50%;
+    padding-top: 30px;
+} */
